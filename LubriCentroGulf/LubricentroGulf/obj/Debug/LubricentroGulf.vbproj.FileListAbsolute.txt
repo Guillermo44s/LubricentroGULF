@@ -1,0 +1,108 @@
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.exe.config
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.exe
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.pdb
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.xml
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.AssemblyReference.cache
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Form1.resources
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Resources.resources
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.GenerateResource.cache
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.CoreCompileInputs.cache
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.exe
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.xml
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.pdb
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Form2.resources
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Frank\Desktop\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.CopyComplete
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.exe.config
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.exe
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.pdb
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.xml
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\System.Data.SqlClient.dll
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\System.Data.SqlClient.xml
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.AssemblyReference.cache
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Form1.resources
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Form2.resources
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Resources.resources
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.GenerateResource.cache
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.CoreCompileInputs.cache
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.CopyComplete
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.exe
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.xml
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.pdb
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.FiltroAceite.resources
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Vehiculo.resources
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Lubricante.resources
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.filtroCombustible.resources
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.filtroAire.resources
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Menu.resources
+C:\Users\BENEDETTI\Desktop\LubricentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.patente.resources
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.exe.config
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.exe
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.pdb
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.xml
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\System.Data.SqlClient.dll
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\System.Data.SqlClient.xml
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.AssemblyReference.cache
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.FiltroAceite.resources
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.filtroAire.resources
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.filtroCombustible.resources
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Form1.resources
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Form2.resources
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Lubricante.resources
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Menu.resources
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Resources.resources
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.patente.resources
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Vehiculo.resources
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.GenerateResource.cache
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.CoreCompileInputs.cache
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.CopyComplete
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.exe
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.xml
+C:\Users\guill\Downloads\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.pdb
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.exe.config
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.exe
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.pdb
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.xml
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\System.Data.SqlClient.dll
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\System.Data.SqlClient.xml
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.FiltroAceite.resources
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.filtroAire.resources
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.filtroCombustible.resources
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Form1.resources
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Form2.resources
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Lubricante.resources
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Menu.resources
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Resources.resources
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.patente.resources
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Vehiculo.resources
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.GenerateResource.cache
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.CopyComplete
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.exe
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.xml
+C:\Users\guill\OneDrive\Escritorio\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.pdb
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.exe.config
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.exe
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.pdb
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\LubricentroGulf.xml
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\System.Data.SqlClient.dll
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\bin\Debug\System.Data.SqlClient.xml
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.AssemblyReference.cache
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.FiltroAceite.resources
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.filtroAire.resources
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.filtroCombustible.resources
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Form1.resources
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Form2.resources
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Lubricante.resources
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Menu.resources
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Resources.resources
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.patente.resources
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.Vehiculo.resources
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.GenerateResource.cache
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.CoreCompileInputs.cache
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.vbproj.CopyComplete
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.exe
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.xml
+C:\Users\guill\OneDrive\Escritorio\Programacion ll\Proyectos-PracticasProfecionales\LubriCentroGulf\LubriCentroGulf\LubricentroGulf\obj\Debug\LubricentroGulf.pdb
